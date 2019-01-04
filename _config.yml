@@ -23,7 +23,7 @@ navigation:
   - name: 간단 소개
     url: /
   - name: CV
-    url: /about
+    url: /cv
   - name: Portfolio
     url: /archive
   - name: Tags
