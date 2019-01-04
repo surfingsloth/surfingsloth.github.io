@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Surfing Sloth
+name: 서핑슬로트
 
 # Short bio or description (displayed in the header)
-description: Ison Gogh
+description: 고이선, Ison Gogh
 
 #
 # Flags below are optional
@@ -24,7 +24,7 @@ navigation:
     url: /
   - name: CV
     url: /about
-  - name: Archive
+  - name: Portfolio
     url: /archive
   - name: Tags
     url: /tags
