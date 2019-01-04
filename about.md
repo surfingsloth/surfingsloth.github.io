@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-Some information about you!
++82.10.9039.1465
 
-### More Information
+### 히스토리_일
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 히스토리_공부
 
-[email@domain.com](mailto:email@domain.com)
+of in
