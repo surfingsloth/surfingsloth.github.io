@@ -8,6 +8,7 @@
 @import "reset";
 @import "open-color";
 @import "variables";
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -47,6 +48,7 @@ h1, h2, h3, h5 {
 
 h1 {
   font-size: 30px;
+  font-family: 'Do Hyeon', sans-serif;
   a {
     color: inherit;
   }
