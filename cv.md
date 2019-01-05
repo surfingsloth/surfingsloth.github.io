@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 +82.10.9039.1465
+
 surfingsloth.kr@gmail.com
 
 ### 일 (최근순)
