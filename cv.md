@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 전부 탈탈 털어 넣은 이력서
+title: 지금 바로 연락주세요.
 permalink: /cv/
 ---
 
