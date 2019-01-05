@@ -34,7 +34,7 @@ permalink: /cv/
     
 **문화공간 숨도, 2011. 12 ~ 2012. 06, 연구원**
 
-기획연구원으로 주/월간 행사 및 강연을 기획했다. 대표적으로는 계간 독서토론 클럽인 <책벌클럽>을 최초 제안 및 기획했다. 이후 <책벌클럽>은 5년 이상 진행되었다. 재한 외국인을 위한 루프탑 파티 <시 헤는 밤>을 기획했다.
+기획연구원으로 주/월간 행사 및 강연을 기획했다. 대표적으로는 계간 독서토론 클럽인 <책벌클럽>을 최초 제안 및 기획했다. 이후 <책벌클럽>은 5년 이상 진행되었다. 재한 외국인을 위한 루프탑 파티 <시 헤는 밤> 기획했다.
 
 **엠에이피, 2010. 08 ~ 2011. 07, 에디터**
 
@@ -67,15 +67,23 @@ K리그 울산 현대 서포터즈 활동, 2003 ~ 2004
 ### 공부 (최근순)
 
 한국방송통신대학교, 불어불문학 재학. 서울, 한국
+
 IELTS, Overall 7, Listening 8, Reading 7, Writing 6, Speaking 8, 2016
+
 서울여자대학교, 언론영상학 졸업, 서울, 한국, 2010
+
 치체스터컬리지, 어학연수 EFL Advanced 수료. 웨스트 서섹스, 영국, 2007
 
 
 ### 출판물 (최근순)
 
 한국중부발전, 대한민국 행복발전소 이야기, 고이선, 2015
+
 서울특별시, 서울을 부탁해! 명탐정 스컹크, 고이선, 2015
-제이콘텐트리, The Rival: The 5-Star Airports, Incheon International Airport Vs. Singgapore Changi Airport, 젠틀맨코리아, Vol.24, 2014
+
+제이콘텐트리, The Rival: The 5-Star Airports, Incheon International Airport Vs. Singgapore Changi 
+Airport, 젠틀맨코리아, Vol.24, 2014
+
 제이콘텐트리, 여행의 목적, 젠틀맨코리아, Vol.22, 2014
-현대자동차, New Thinkings on Traveling the Globe, 2014
+
+현대자동차, New Thinkings on Traveling the Globe, 더 클라시스, 2014
