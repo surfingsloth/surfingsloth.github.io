@@ -1,19 +1,17 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-tags: [sample post, readability, test, intro]
+title: "배민문방구에서 하고 싶은 일"
+tags: [문구덕후, 마케터, 기획, 퍼포먼스마케팅]
 comments: true
 ---
 
-A ton of text to test readability.
+## 커스텀 키보드 키캡 세트
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+배달의 민족 이모티콘을 쓰는, 기계식 키보드 덕후라면 탐낼만한 상품.
+PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많은 사용자들이 커스텀할 수 있도록 한다.
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+![alt text](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/BM_Keycap.png)
 
-## Cupidatat 90's lo-fi authentic try-hard
-
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
 
 * Sartorial hoodie
 * Labore viral forage
