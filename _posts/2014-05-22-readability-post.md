@@ -36,11 +36,11 @@ PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많�
 ## 팟 심은 데 콩나물 이 십 만원 어치
 세상에서 가장 비싼 콩나물을 조금 덜 비싼 케이스에 넣어보자. 
 
-![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/congnamul.png)
+![콩나물](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/congnamul.png)
 
-## 그리고 가장 하고 싶은 일은,
-배달의 민족을 이용함으로써 불가피하게 발생하는 플라스틱 쓰레기에 대한 사회적 책임을 조금이나마 생각하는 프로젝트를 하고 싶습니다.
-일차원적 접근부터 가볍게 시작해본다면, 배민문방구에서 판매하고 있는 티셔츠를 폐플라스틱을 재활용한 섬유로 소재만 전환해보는 것이 방법이 될 것 같습니다. 
+## 가장 하고 싶은 일은 이런 거예요.
+배달의 민족을 이용함으로써 불가피하게 발생하는 플라스틱 쓰레기에 대한 사회적 책임을 조금이나마 생각하는 프로젝트를 하고 싶습니다.<br/>
+일차원적 접근부터 가볍게 시작한다면, 이미 판매 중인 배민문방구 티셔츠를 폐플라스틱을 재활용한 섬유로 소재만 전환해보면 어떨까요? 
 
 이를테면 이렇게요.
-![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/notguilty.png)
+![낫길T](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/notguilty.png)

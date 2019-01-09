@@ -9,6 +9,8 @@ surfingsloth.kr@gmail.com
 
 <div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/ZFvL7VS2ogY" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 
+![haebwat](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/profile.png){:height="50%" width="50%"}
+
 ### 일 (최근순)
 
 **(주)펫앤브이, 2018. 08 ~ 2018. 12, 마케팅팀 팀장**<br/>
@@ -90,7 +92,7 @@ K리그 울산 현대 서포터, 2002 ~ 2004<br/>
 ### 출판물
 
 한국중부발전, 대한민국 행복발전소 이야기, 고이선, 2015<br/>
-서울특별시, 서울을 부탁해! 명탐정 스컹크, 고이선, 2015
+서울특별시청, 서울을 부탁해! 명탐정 스컹크, 고이선, 2015
 
 
 ### 언어 및 기술
