@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 서핑하는 나무늘보
+title: 모든 것을 탈탈 털어 넣은 이력서
 permalink: /cv/
 ---
 
