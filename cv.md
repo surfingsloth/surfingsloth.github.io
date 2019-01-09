@@ -3,11 +3,7 @@ layout: page
 title: 서핑하는 나무늘보
 permalink: /cv/
 ---
-남들보다 느린 사람이지만, 서핑보드나 맥북 등의 도구를 쥐어주면 누구보다 빨라집니다.<br/>
-+82.10.9039.1465<br/>
-surfingsloth.kr@gmail.com
 
-<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/ZFvL7VS2ogY" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 
 ![profile](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/profile.jpg){:height="50%" width="50%"}
 
