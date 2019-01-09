@@ -46,7 +46,7 @@ comments: true
 <div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://player.vimeo.com/video/45171164" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 시 헤는 밤 이벤트 영상
 
-<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="http://akasub23.dothome.co.kr/wordpress/wp-content/uploads/2015/01/changing2.gif" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
+![시 헤는 밤 포스터](http://akasub23.dothome.co.kr/wordpress/wp-content/uploads/2015/01/changing2.gif)
 시 헤는 밤 온라인 포스터, 디자이너 송민선, '시 헤는 밤'을 영문으로 번역할 때, 시어 ‘헤는’의 다양한 의미를 살리고자, 해당 부분이 Passing-Sounding-Counting-Falling으로 계속해서 전환되도록 기획했다.
 
 ## 책벌클럽
