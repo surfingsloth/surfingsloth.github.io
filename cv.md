@@ -4,7 +4,6 @@ title: 서핑하는 나무늘보
 permalink: /cv/
 ---
 
-
 ![profile](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/profile.jpg){:height="50%" width="50%"}
 
 ### 일 (최근순)
