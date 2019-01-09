@@ -20,15 +20,15 @@ PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많�
 
 ![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/haebwat2.png){:height="50%" width="50%"}
 
+## 팟 심은 데 콩나물 십 구 만원 어치
+에어팟 케이스
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/congnamul19.png){:height="50%" width="50%"}
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+## 그리고 가장 하고 싶은 일은,
+배달의 민족을 이용함으로써 불가피하게 발생하는 플라스틱 쓰레기에 대한 사회적 책임을 조금이나마 생각하는 프로젝트를 하고 싶습니다.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+일차원적 접근부터 가볍게 시작해본다면, 배민문방구에서 판매하고 있는 티셔츠를 폐플라스틱을 재활용한 섬유로 소재만 전환해보는 것이 방법이 될 것 같습니다. 
 
 ## Forage occaecat cardigan qui
 
