@@ -9,7 +9,7 @@ surfingsloth.kr@gmail.com
 
 <div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/ZFvL7VS2ogY" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 
-![haebwat](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/profile.png){:height="50%" width="50%"}
+![profile](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/profile.png){:height="50%" width="50%"}
 
 ### 일 (최근순)
 
