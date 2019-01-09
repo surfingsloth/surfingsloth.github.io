@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 모든 것을 탈탈 털어 넣은 이력서
+title: 탈탈 털어 써넣은 이력서
 permalink: /cv/
 ---
 

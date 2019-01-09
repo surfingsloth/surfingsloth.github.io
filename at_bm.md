@@ -21,7 +21,7 @@ permalink: /at_bm/
 배달의 민족 이모티콘을 쓰는, 기계식 키보드 덕후라면 탐낼만한 상품. 'ㅋㅋㅋㅋㅋㅋ'와 엔터키를 칠 때 희열을 더해준다.<br/>
 PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많은 사용자들이 커스텀할 수 있도록 한다.
 
-![BM_Keycap](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/BM_Keycap.png)
+![BM_Keycap](/images/BM_Keycap.png)
 
 
 ## 여름휴가 시즌상품, 내가 해 봐서 아는데
@@ -30,14 +30,14 @@ PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많�
 아래의 상품 외에도 농활용왕골모자, 해변 파라솔 등에 응용할 수 있겠다.
 
 썬크림(50ml/일회용 8ml)
-![haebwat](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/haebwat.png){:height="50%" width="50%"}
+![haebwat](/images/haebwat.png){:height="50%" width="50%"}
 자전거 라이더를 위한 쿨토시(사진 속 패키지에 들어있을 예정임)
-![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/haebwat2.png){:height="50%" width="50%"}
+![haebwat2](/images/haebwat2.png){:height="50%" width="50%"}
 
 ## 팟 심은 데 콩나물 이 십 만원 어치
 세상에서 가장 비싼 콩나물을 조금 덜 비싼 케이스에 넣어보자. 
 
-![콩나물](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/congnamul.png)
+![콩나물](/images/congnamul.png)
 
 ## 가장 하고 싶은 일은 이런 거예요.
 배달의 민족을 이용함으로써 불가피하게 발생하는 플라스틱 쓰레기에 대한 사회적 책임을 조금이나마 생각하는 프로젝트를 하고 싶습니다.<br/>
