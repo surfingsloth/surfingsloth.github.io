@@ -1,56 +1,11 @@
 ---
-layout: default
+layout: page
 ---
 
-{% if site.posts.size == 0 %}
-  <h2>No post found</h2>
-{% endif %}
+남들보다 느린 사람이지만, 서핑보드나 맥북 등의 도구를 쥐어주면 누구보다 빨라집니다.
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <h1>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
++82.10.9039.1465<br/>
+surfingsloth.kr@gmail.com
 
-      <div clsss="meta">
-        <span class="date">
-          {{ post.date | date: "%Y-%m-%d" }}
-        </span>
 
-        <ul class="tag">
-          {% for tag in post.tags %}
-          <li>
-            <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-              {{ tag }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">이어서 읽기</a>
-    </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <span class="prev">
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        &#xE000; Previous
-      </a>
-    </span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <span class="next">
-      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        Next &#xE001;
-      </a>
-    </span>
-  {% endif %}
-</div>
+<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/ZFvL7VS2ogY" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
