@@ -2,11 +2,11 @@
 layout: post
 title: You're up and running!
 tags:
-  - test
-  - tags
+  - 덕질
+  - 포트폴리오
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+180617.ga
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
