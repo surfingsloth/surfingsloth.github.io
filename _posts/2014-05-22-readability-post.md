@@ -10,10 +10,16 @@ comments: true
 배달의 민족 이모티콘을 쓰는, 기계식 키보드 덕후라면 탐낼만한 상품.
 PBT소재로 묵직함을 더하고 체리MX 호환이 가능하도록 해, 많은 사용자들이 커스텀할 수 있도록 한다.
 
-![alt text](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/BM_Keycap.png)
+![BM_Keycap](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/BM_Keycap.png)
 
 
-## 여름휴가 선물세트 <내가 해 봐서 아는데>
+## 여름휴가 시즌상품 <내가 해 봐서 아는데>
+썬크림(50ml/일회용 8ml), 자전거 라이더를 위한 쿨토시, 농활왕골모자, 비치 엄브렐라(파라솔) 등
+
+![haebwat](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/haebwat.png){:height="50%" width="50%"}
+
+![haebwat2](https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/haebwat2.png){:height="50%" width="50%"}
+
 
 * Sartorial hoodie
 * Labore viral forage
