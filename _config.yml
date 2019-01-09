@@ -20,14 +20,12 @@ avatar: https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/ma
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 맨앞
-    url: /
   - name: 이력서
     url: /cv
+  - name: 논픽션
+    url: /nonfiction
   - name: 포트폴리오
     url: /portfolio
-  - name: 태그
-    url: /tags
   - name: 내려받기
     url: https://github.com/AWEEKJ/kiko-now
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "오프라인 이벤트 기획"
-tags: [숨도, 이벤트, 포트폴리오]
+title: "초고퀄 스타워즈 행사 기획"
+tags: [행사기획, 이벤트, 포트폴리오]
 comments: true
-permalink: /event/
+permalink: /editor/
 ---
 ## 스타워즈 웨딩
 스타워즈를 좋아하는 우리 부부의 결혼식은 스타워즈 테마로 진행했다. 결혼식에 다스베이더가 출연해야 했기에, 다스베이더가 죽지 않는 시나리오를 위해 <스타워즈 에피소드 6: 제다이의 귀환>의 리부트 개념으로 <스타워즈 에피소드 6': 은하연합의 탄생(Unity of the Galaxy) 시놉시스를 구성하여 이를 토대로 스타워즈 에피소드 6'를 관람하는 테마의 결혼식을 기획, 제작했다. <br/>
@@ -17,17 +17,19 @@ permalink: /event/
 ### 웨딩촬영
 일반적인 야외 웨딩촬영도 했지만, 스타워즈 테마의 촬영도 빼놓지 않았다. 시의성을 가미하기 위해 오리지널 트릴로지가 아닌 시퀄 시리즈인 깨어난 포스, 라스트 제다이의 등장인물인 레이와 카일로 렌 커플(일명 레일로)의 코스튬으로 진행했다.
 
-### 식전음악
-우리 부부의 친구들의 취향은 대체로 우리와 비슷했기 때문에, 그들이 대기시간 동안 지루하지 않도록 식전음악을 선곡했다. 유튜브 'The String Quartet Channel'에서 연주한 스타워즈, 왕좌의 게임, ET, 늑대와 함께 춤을, 고스트 버스터즈 등 영화 테마음악 커버곡을 사용했다.
+### 배경음악
+우리 부부의 친구들의 취향은 대체로 우리와 비슷했기 때문에, 그들이 대기시간 동안 지루하지 않도록 식전 배경음악을 선곡했다. 유튜브 'The String Quartet Channel'에서 연주한 스타워즈의 칸티나 밴드, 왕좌의 게임, ET, 늑대와 함께 춤을, 고스트 버스터즈 등 영화 테마음악 커버곡을 사용했다.
+<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/BBndBIF0n4c" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
+
+### 식전광고
+웨딩 사진과 음악을 함께 틀어주는 식전영상과는 다르게 기획하고 싶었다. 우리 부부는 아이유를 매우 좋아하기 때문에, 간단히 정할 수 있었다. 예식 자체가 영화 관람 테마로 진행되었기에 영화를 보기에 앞서 항상 보게 되는 광고를 넣기로 했고, 당연히 아이유 광고 모음이었다. (게임 음양사, 소니, 뉴발란스, 경동제약, 맥심, 참이슬 등)
+<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/ZHr7QQ4vSBs" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
+
 
 ### 식전영상
-웨딩 사진과 음악을 함께 틀어주는 식전영상과는 다르게 기획하고 싶었다. 우리 부부는 아이유를 매우 좋아하기 때문에, 간단히 정할 수 있었다. 예식 자체가 영화 관람 테마로 진행되었기에 영화를 보기에 앞서 항상 보게 되는 광고를 넣기로 했고, 당연히 아이유 광고 모음이었다. (게임 음양사, 소니, 뉴발란스, 경동제약, 맥심, 참이슬 등)
-<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/commercial.mp4" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
-
-### 시작영상
 식전영상으로 아이유 광고가 끝난 뒤 바로 C 영화관의 비상대피도 영상과 아이맥스 카운트다운 영상을 틀었다. 내빈들 중 연세가 많으신 어르신은 대부분 이미 식장 안에 앉아 계실 것으로, 우리 부부 또래의 내빈은 바깥쪽에 있을 거라고 예상했다. 바깥쪽에 있는 내빈은 대부분 영화관에서의 영화 관람 경험이 많을 것이므로, 비상대피도 영상과 아이맥스 카운트다운 영상의 소리만으로 무언가 시작된다는 것과 안으로 들어와야한다는 것을 직감할 거라고 예측했다.<br/>
 아이맥스 카운트다운 이후에는 새롭게 쓴 <스타워즈 에피소드 6': 은하연합의 탄생(Unity of the Galaxy)>의 Opening Crawl을 내보냈다. 물론 자막도 있었다.
-<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://raw.githubusercontent.com/surfingsloth/surfingsloth.github.io/master/images/opening.mp4" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
+<div class="fluid-vids" style="width: 100%; position: relative; padding-top: 75%;"><iframe src="https://www.youtube.com/embed/bmkp-X2dnhg" width="100%" height="100%" frameborder="" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 
 ### 501군단 대한민국 지부
 예식의 퀄리티를 최고조로 끌어올려준 것은 501군단 대한민국 지부였다. 예식 석 달전 미리 섭외를 요청드렸고, 흔쾌히 응해주었다. 출연료 대신 501군단의 이름으로 '세이브더칠드런'과 음악가 잭 존슨의 'kokua ohana foundation'에 기부금을 지원하였다. <br/>
@@ -35,10 +37,10 @@ permalink: /event/
 
 ### 그 밖의 디테일
 
-1. 내빈들에게는 영화티켓처럼 생긴 입장권을 나누어주었다. 일반 영화티켓과 마찬가지로 재단선을 넣어 뜯을 수 있도록 했으며, 뜯겨진 한 쪽에는 축하 메시지를 써서 메시지함(다스베이더 모양)에 넣을 수 있도록 했다. 이후 추첨을 통해 신혼여행지에서 산 선물을 보내드렸다.<br/>
-2. 사회자의 넥타이 핀에는 은하제국 문장이 새겨져있다.
-3. 결혼반지는 티타늄 소재의 데스스타 모양 링박스에 담겨져 전달되었다.
-4. 온라인 청첩장 페이지인 180617.ga 의 도메인은 ga(laxy)에서의 18년 6월 17일을 뜻한다.
+1.영화티켓처럼 생긴 입장권을 나누어주었다. 일반 영화티켓과 마찬가지로 재단선을 넣어 뜯을 수 있도록 했으며, 뜯겨진 한 쪽에는 축하 메시지를 써서 메시지함(다스베이더 모양)에 넣을 수 있도록 했다. 이후 추첨을 통해 신혼여행지에서 구입한 작은 선물을 보내드렸다.<br/>
+2.사회자의 넥타이 핀에는 은하제국 문장이 새겨져있다.<br/>
+3.결혼반지는 티타늄 소재의 데스스타 모양 링박스에 담겨져 전달되었다.<br/>
+4.온라인 청첩장 페이지인 180617.ga 의 도메인은 ga(laxy)에서의 18년 6월 17일을 뜻한다.
 
 
 ### 문화공간 숨도
